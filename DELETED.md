@@ -9,3 +9,5 @@ Repos que fueron retirados de la lista porque fueron archivados, deprecados o ya
 ## Deprecados
 
 ## No cumplen criterios
+
+- [OCRevalUAtion](https://github.com/impactcentre/ocrevalUAtion) - Herramienta genérica de evaluación de OCR, no específica de la Comunitat Valenciana.
