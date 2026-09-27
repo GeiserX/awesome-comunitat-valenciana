@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200">
+  <defs>
+    <clipPath id="a-clip"><rect width="800" height="200" rx="16"/></clipPath>
+    <linearGradient id="a-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a0f"/><stop offset="72%" stop-color="#131a26"/><stop offset="85%" stop-color="#0d1822"/><stop offset="100%" stop-color="#0a0f16"/>
+    </linearGradient>
+    <linearGradient id="ws" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f4f7f9"/><stop offset="100%" stop-color="#9fb3c0"/>
+    </linearGradient>
+    <radialGradient id="dome" cx="0.4" cy="0.3" r="0.8">
+      <stop offset="0%" stop-color="#f3dcae"/><stop offset="100%" stop-color="#b98848"/>
+    </radialGradient>
+    <linearGradient id="a-fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.5"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="a-refl"><rect x="0" y="170" width="800" height="30" fill="url(#a-fade)"/></mask>
+    <filter id="a-blur"><feGaussianBlur stdDeviation="40"/></filter>
+    <filter id="a-soft"><feGaussianBlur stdDeviation="0.6"/></filter>
+  </defs>
+  <g clip-path="url(#a-clip)">
+    <rect width="800" height="200" fill="url(#a-bg)"/>
+    <ellipse cx="400" cy="175" rx="360" ry="60" fill="#3b6e8f" opacity="0.18" filter="url(#a-blur)"/>
+    <ellipse cx="660" cy="10" rx="200" ry="90" fill="#d49a45" opacity="0.08" filter="url(#a-blur)"/>
+    <text x="400" y="62" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="32" fill="#ffffff" font-weight="700" letter-spacing="1">awesome-comunitat-valenciana</text>
+    <text x="400" y="92" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#ffffff" fill-opacity="0.55" font-weight="400" letter-spacing="3">SOFTWARE OPEN SOURCE PARA LA COMUNITAT VALENCIANA</text>
+    <g>
+      <!-- Palau de les Arts Reina Sofia -->
+      <path d="M38,170 C44,150 70,134 112,131 C150,129 176,146 186,170 Z" fill="url(#ws)"/>
+      <path d="M50,170 C62,157 86,150 112,150 C140,150 162,158 174,170 Z" fill="#2c4a5e" opacity="0.8"/>
+      <path d="M66,170 C80,162 96,159 112,159 C130,159 146,163 158,170 Z" fill="url(#ws)" opacity="0.7"/>
+      <path d="M192,164 C182,130 150,104 108,102 C74,101 44,112 20,128 C48,118 76,114 104,115 C142,117 170,136 180,164 Z" fill="#e9eef1"/>
+      <!-- L'Hemisfèric -->
+      <path d="M204,170 C224,146 248,139 266,139 C284,139 308,146 328,170 Z" fill="url(#ws)"/>
+      <path d="M216,170 C232,153 250,148 266,148 C282,148 300,153 316,170 Z" fill="#0f1a24"/>
+      <circle cx="266" cy="170" r="12" fill="url(#dome)" opacity="0.9"/>
+      <path d="M226,158 L230,150 M240,152 L243,144 M254,149 L255,141 M266,148 L266,140 M278,149 L277,141 M292,152 L289,144 M306,158 L302,150" stroke="#9fb3bf" stroke-width="1.2" fill="none"/>
+      <!-- Museu de les Ciències Príncipe Felipe -->
+      <path d="M348,170 L348,140 L392,140 L392,150 L560,150 L566,170 Z" fill="#6f8da0" opacity="0.35"/>
+      <path d="M353.5,170 L354.5,149.0 L349.5,138.0 L362.5,138.0 L357.5,149.0 L358.5,170 Z M367.0,170 L368.0,149.0 L363.0,138.0 L376.0,138.0 L371.0,149.0 L372.0,170 Z M380.5,170 L381.5,149.0 L376.5,138.0 L389.5,138.0 L384.5,149.0 L385.5,170 Z M394.0,170 L395.0,159.0 L390.0,148.0 L403.0,148.0 L398.0,159.0 L399.0,170 Z M407.5,170 L408.5,159.0 L403.5,148.0 L416.5,148.0 L411.5,159.0 L412.5,170 Z M421.0,170 L422.0,159.0 L417.0,148.0 L430.0,148.0 L425.0,159.0 L426.0,170 Z M434.5,170 L435.5,159.0 L430.5,148.0 L443.5,148.0 L438.5,159.0 L439.5,170 Z M448.0,170 L449.0,159.0 L444.0,148.0 L457.0,148.0 L452.0,159.0 L453.0,170 Z M461.5,170 L462.5,159.0 L457.5,148.0 L470.5,148.0 L465.5,159.0 L466.5,170 Z M475.0,170 L476.0,159.0 L471.0,148.0 L484.0,148.0 L479.0,159.0 L480.0,170 Z M488.5,170 L489.5,159.0 L484.5,148.0 L497.5,148.0 L492.5,159.0 L493.5,170 Z M502.0,170 L503.0,159.0 L498.0,148.0 L511.0,148.0 L506.0,159.0 L507.0,170 Z M515.5,170 L516.5,159.0 L511.5,148.0 L524.5,148.0 L519.5,159.0 L520.5,170 Z M529.0,170 L530.0,159.0 L525.0,148.0 L538.0,148.0 L533.0,159.0 L534.0,170 Z M542.5,170 L543.5,159.0 L538.5,148.0 L551.5,148.0 L546.5,159.0 L547.5,170 Z" fill="url(#ws)"/>
+      <path d="M348,146.5 L561,146.5 M348,136.5 L392,136.5" stroke="#e9eef1" stroke-width="2.2"/>
+      <!-- L'Assut de l'Or -->
+      <path d="M584,161 L730,161 L730,164 L584,164 Z" fill="#e9eef1"/>
+      <path d="M614,161 C613,144 606,124 594,104 L600,101 C613,121 621,142 622,161 Z" fill="#e9eef1"/>
+      <path d="M614,150 L640,160 M611,140 L662,160 M607,130 L684,160 M603,120 L704,160 M599,111 L722,160" stroke="#e9eef1" stroke-width="0.8" opacity="0.85" fill="none"/>
+      <!-- L'Àgora -->
+      <path d="M734,170 C734,148 742,128 754,114 C756,124 758,128 761,130 C764,124 768,118 774,113 C784,128 790,148 790,170 Z" fill="url(#ws)"/>
+      <path d="M741.0,169 L741.0,148.0 M748.3,169 L748.3,144.0 M755.6,169 L755.6,140.0 M762.9,169 L762.9,136.0 M770.2,169 L770.2,140.0 M777.5,169 L777.5,144.0 M784.8,169 L784.8,148.0" stroke="#7a9cb0" stroke-width="1.1" fill="none"/>
+    </g>
+    <g mask="url(#a-refl)" filter="url(#a-soft)">
+      <g transform="translate(0,340) scale(1,-1)">
+      <!-- Palau de les Arts Reina Sofia -->
+      <path d="M38,170 C44,150 70,134 112,131 C150,129 176,146 186,170 Z" fill="url(#ws)"/>
+      <path d="M50,170 C62,157 86,150 112,150 C140,150 162,158 174,170 Z" fill="#2c4a5e" opacity="0.8"/>
+      <path d="M66,170 C80,162 96,159 112,159 C130,159 146,163 158,170 Z" fill="url(#ws)" opacity="0.7"/>
+      <path d="M192,164 C182,130 150,104 108,102 C74,101 44,112 20,128 C48,118 76,114 104,115 C142,117 170,136 180,164 Z" fill="#e9eef1"/>
+      <!-- L'Hemisfèric -->
+      <path d="M204,170 C224,146 248,139 266,139 C284,139 308,146 328,170 Z" fill="url(#ws)"/>
+      <path d="M216,170 C232,153 250,148 266,148 C282,148 300,153 316,170 Z" fill="#0f1a24"/>
+      <circle cx="266" cy="170" r="12" fill="url(#dome)" opacity="0.9"/>
+      <path d="M226,158 L230,150 M240,152 L243,144 M254,149 L255,141 M266,148 L266,140 M278,149 L277,141 M292,152 L289,144 M306,158 L302,150" stroke="#9fb3bf" stroke-width="1.2" fill="none"/>
+      <!-- Museu de les Ciències Príncipe Felipe -->
+      <path d="M348,170 L348,140 L392,140 L392,150 L560,150 L566,170 Z" fill="#6f8da0" opacity="0.35"/>
+      <path d="M353.5,170 L354.5,149.0 L349.5,138.0 L362.5,138.0 L357.5,149.0 L358.5,170 Z M367.0,170 L368.0,149.0 L363.0,138.0 L376.0,138.0 L371.0,149.0 L372.0,170 Z M380.5,170 L381.5,149.0 L376.5,138.0 L389.5,138.0 L384.5,149.0 L385.5,170 Z M394.0,170 L395.0,159.0 L390.0,148.0 L403.0,148.0 L398.0,159.0 L399.0,170 Z M407.5,170 L408.5,159.0 L403.5,148.0 L416.5,148.0 L411.5,159.0 L412.5,170 Z M421.0,170 L422.0,159.0 L417.0,148.0 L430.0,148.0 L425.0,159.0 L426.0,170 Z M434.5,170 L435.5,159.0 L430.5,148.0 L443.5,148.0 L438.5,159.0 L439.5,170 Z M448.0,170 L449.0,159.0 L444.0,148.0 L457.0,148.0 L452.0,159.0 L453.0,170 Z M461.5,170 L462.5,159.0 L457.5,148.0 L470.5,148.0 L465.5,159.0 L466.5,170 Z M475.0,170 L476.0,159.0 L471.0,148.0 L484.0,148.0 L479.0,159.0 L480.0,170 Z M488.5,170 L489.5,159.0 L484.5,148.0 L497.5,148.0 L492.5,159.0 L493.5,170 Z M502.0,170 L503.0,159.0 L498.0,148.0 L511.0,148.0 L506.0,159.0 L507.0,170 Z M515.5,170 L516.5,159.0 L511.5,148.0 L524.5,148.0 L519.5,159.0 L520.5,170 Z M529.0,170 L530.0,159.0 L525.0,148.0 L538.0,148.0 L533.0,159.0 L534.0,170 Z M542.5,170 L543.5,159.0 L538.5,148.0 L551.5,148.0 L546.5,159.0 L547.5,170 Z" fill="url(#ws)"/>
+      <path d="M348,146.5 L561,146.5 M348,136.5 L392,136.5" stroke="#e9eef1" stroke-width="2.2"/>
+      <!-- L'Assut de l'Or -->
+      <path d="M584,161 L730,161 L730,164 L584,164 Z" fill="#e9eef1"/>
+      <path d="M614,161 C613,144 606,124 594,104 L600,101 C613,121 621,142 622,161 Z" fill="#e9eef1"/>
+      <path d="M614,150 L640,160 M611,140 L662,160 M607,130 L684,160 M603,120 L704,160 M599,111 L722,160" stroke="#e9eef1" stroke-width="0.8" opacity="0.85" fill="none"/>
+      <!-- L'Àgora -->
+      <path d="M734,170 C734,148 742,128 754,114 C756,124 758,128 761,130 C764,124 768,118 774,113 C784,128 790,148 790,170 Z" fill="url(#ws)"/>
+      <path d="M741.0,169 L741.0,148.0 M748.3,169 L748.3,144.0 M755.6,169 L755.6,140.0 M762.9,169 L762.9,136.0 M770.2,169 L770.2,140.0 M777.5,169 L777.5,144.0 M784.8,169 L784.8,148.0" stroke="#7a9cb0" stroke-width="1.1" fill="none"/>
+      </g>
+    </g>
+    <rect x="0" y="170" width="800" height="1" fill="#cfe0ea" opacity="0.35"/>
+    <path d="M70,181 h34 M160,188 h60 M300,183 h28 M420,191 h56 M520,180 h40 M640,187 h52" stroke="#cfe0ea" stroke-width="0.7" opacity="0.18"/>
+  </g>
+</svg>
