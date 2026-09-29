@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="media/banner.svg" alt="Awesome Comunitat Valenciana">
+  <img src="docs/images/banner.svg" alt="Awesome Comunitat Valenciana">
   <br><br>
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" alt="Awesome"></a>
   <br><br>
@@ -21,7 +21,7 @@
 
 <!--lint enable awesome-list-item-->
 
-**Leyenda:** Cada entrada muestra: ![Stars](https://img.shields.io/badge/%E2%AD%90-grey?style=flat-square) estrellas, ![Last Commit](https://img.shields.io/badge/commit-grey?style=flat-square) actividad, ![Language](https://img.shields.io/badge/lang-grey?style=flat-square) lenguaje, ![License](https://img.shields.io/badge/license-grey?style=flat-square) licencia, [![GVA](https://img.shields.io/badge/GVA-0056A0?style=flat-square)](https://www.gva.es/) etiqueta de institución/ubicación, ([Demo](https://github.com/GeiserX/awesome-comunitat-valenciana)) demo en vivo. Todas las insignias son clicables y se actualizan automáticamente. Las etiquetas enlazan a las páginas oficiales de cada institución.
+> Las insignias muestran: ⭐ estrellas, último commit, lenguaje principal y licencia. Las etiquetas de color enlazan a la página oficial de cada institución o servicio. Los enlaces **Demo** apuntan a instancias públicas.
 
 ## Administración y Gobierno Autonómico
 
@@ -81,7 +81,6 @@
 - [MetroValencia](https://github.com/luisnomad/metrovalencia) [![Stars](https://img.shields.io/github/stars/luisnomad/metrovalencia?style=flat-square&label=%E2%AD%90)](https://github.com/luisnomad/metrovalencia/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/luisnomad/metrovalencia?style=flat-square)](https://github.com/luisnomad/metrovalencia/commits/main) [![Language](https://img.shields.io/github/languages/top/luisnomad/metrovalencia?style=flat-square)](https://github.com/luisnomad/metrovalencia) [![License](https://img.shields.io/github/license/luisnomad/metrovalencia?style=flat-square)](https://github.com/luisnomad/metrovalencia) [![FGV](https://img.shields.io/badge/FGV-0056A0?style=flat-square)](https://www.fgv.es/) [![València](https://img.shields.io/badge/València-0056A0?style=flat-square)](https://www.valencia.es/) - Herramienta para consultar horarios y líneas de MetroValencia (Ferrocarrils de la Generalitat Valenciana).
 - [pyemtvlc](https://github.com/andoniaf/pyemtvlc) [![Stars](https://img.shields.io/github/stars/andoniaf/pyemtvlc?style=flat-square&label=%E2%AD%90)](https://github.com/andoniaf/pyemtvlc/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/andoniaf/pyemtvlc?style=flat-square)](https://github.com/andoniaf/pyemtvlc/commits/main) [![Language](https://img.shields.io/github/languages/top/andoniaf/pyemtvlc?style=flat-square)](https://github.com/andoniaf/pyemtvlc) [![License](https://img.shields.io/github/license/andoniaf/pyemtvlc?style=flat-square)](https://github.com/andoniaf/pyemtvlc/blob/master/LICENSE) [![EMT](https://img.shields.io/badge/EMT-0056A0?style=flat-square)](https://www.emtvalencia.es/) [![València](https://img.shields.io/badge/València-0056A0?style=flat-square)](https://www.valencia.es/) - Paquete Python para consultar horarios y paradas de la EMT de Valencia.
 - [ValenBisi](https://github.com/systemallica/ValenBisi) [![Stars](https://img.shields.io/github/stars/systemallica/ValenBisi?style=flat-square&label=%E2%AD%90)](https://github.com/systemallica/ValenBisi/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/systemallica/ValenBisi?style=flat-square)](https://github.com/systemallica/ValenBisi/commits/main) [![Language](https://img.shields.io/github/languages/top/systemallica/ValenBisi?style=flat-square)](https://github.com/systemallica/ValenBisi) [![License](https://img.shields.io/github/license/systemallica/ValenBisi?style=flat-square)](https://github.com/systemallica/ValenBisi/blob/main/LICENSE) [![ValenBisi](https://img.shields.io/badge/ValenBisi-0056A0?style=flat-square)](https://www.valenbisi.es/) [![València](https://img.shields.io/badge/València-0056A0?style=flat-square)](https://www.valencia.es/) - Aplicación Android para consultar estaciones y disponibilidad de ValenBisi, el servicio de bicicleta compartida de Valencia.
-- [ValenBisi BOT](https://github.com/dansmachina/valenbisiBOT) [![Stars](https://img.shields.io/github/stars/dansmachina/valenbisiBOT?style=flat-square&label=%E2%AD%90)](https://github.com/dansmachina/valenbisiBOT/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/dansmachina/valenbisiBOT?style=flat-square)](https://github.com/dansmachina/valenbisiBOT/commits/master) [![Language](https://img.shields.io/github/languages/top/dansmachina/valenbisiBOT?style=flat-square)](https://github.com/dansmachina/valenbisiBOT) [![License](https://img.shields.io/github/license/dansmachina/valenbisiBOT?style=flat-square)](https://github.com/dansmachina/valenbisiBOT) [![ValenBisi](https://img.shields.io/badge/ValenBisi-0056A0?style=flat-square)](https://www.valenbisi.es/) [![València](https://img.shields.io/badge/València-0056A0?style=flat-square)](https://www.valencia.es/) - Bot de Telegram para consultar disponibilidad del servicio de bicicleta compartida ValenBisi de Valencia.
 - [ZeppOS-EMT](https://github.com/Humanoidear/ZeppOS-EMT) [![Stars](https://img.shields.io/github/stars/Humanoidear/ZeppOS-EMT?style=flat-square&label=%E2%AD%90)](https://github.com/Humanoidear/ZeppOS-EMT/stargazers) [![Last Commit](https://img.shields.io/github/last-commit/Humanoidear/ZeppOS-EMT?style=flat-square)](https://github.com/Humanoidear/ZeppOS-EMT/commits/main) [![Language](https://img.shields.io/github/languages/top/Humanoidear/ZeppOS-EMT?style=flat-square)](https://github.com/Humanoidear/ZeppOS-EMT) [![License](https://img.shields.io/github/license/Humanoidear/ZeppOS-EMT?style=flat-square)](https://github.com/Humanoidear/ZeppOS-EMT/blob/main/LICENSE) [![EMT](https://img.shields.io/badge/EMT-0056A0?style=flat-square)](https://www.emtvalencia.es/) [![València](https://img.shields.io/badge/València-0056A0?style=flat-square)](https://www.valencia.es/) - Aplicación para consultar horarios de la EMT de Valencia en dispositivos ZeppOS (relojes inteligentes).
 
 ## Universidad
@@ -118,7 +117,7 @@ For the badge (grande):
 
 ## Contribuir
 
-Las contribuciones bienvenidas. Lee las [directrices de contribución](contributing.md) antes de enviar un pull request.
+Las contribuciones son bienvenidas. Lee las [directrices de contribución](contributing.md) antes de enviar un pull request.
 
 ## Nota
 
