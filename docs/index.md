@@ -27,13 +27,13 @@ hide:
 
     ---
 
-    De Administración y Gobierno Autonómico a Universidad, pasando por GVA, LliureX, València, Alacant. El índice lateral sigue la categoría que estás leyendo.
+    De Administración y Gobierno Autonómico a Universidad, pasando por GVA, LliureX, Valencia, Alicante. El índice lateral sigue la categoría que estás leyendo.
 
 -   :material-magnify: **[Buscar un proyecto](https://geiserx.github.io/awesome-comunitat-valenciana/?q=GVA)**
 
     ---
 
-    Pulsa `/` y escribe lo que necesitas: GVA, LliureX, València, Alacant. La búsqueda cubre el nombre y la descripción de todas las entradas.
+    Pulsa `/` y escribe lo que necesitas: GVA, LliureX, Valencia, Alicante. La búsqueda cubre el nombre y la descripción de todas las entradas.
 
 -   :material-plus-box-outline: **[Proponer un proyecto](https://github.com/GeiserX/awesome-comunitat-valenciana/issues/new?template=anadir-proyecto.md)**
 
